@@ -18,6 +18,8 @@ using Blumind.Model.Documents;
 using Blumind.Model.MindMaps;
 using Blumind.Model.Styles;
 
+//窗体模块
+
 namespace Blumind
 {
     partial class DocumentForm : BaseDocumentForm, IThemableUI
